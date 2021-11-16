@@ -5,18 +5,18 @@ This is a course with focus of learning concepts in linear algebra. All lecture 
 - [Class schedule](https://github.com/kokchun/Linjar-algebra-21/blob/main/Schedule_Linjar_Algebra_AI21.md)
 - [Resources](https://github.com/kokchun/Linjar-algebra-21/tree/main/Resources)
 
-## Schedule
+## Plan
 
 <details open>
   
 <summary id="schedule">Click to see/hide schedule</summary>
 
-|    Week     | Content                                 |
-| :---------: | --------------------------------------- |
-| [47][week1] | Linear equation systems, vectors, plane |
-| [48][week2] |                                         |
-| [49][week3] |                                         |
-| [50][week4] | **Tenta**                               |
+|    Week     | Content                                       |
+| :---------: | --------------------------------------------- |
+| [47][week1] | Linear equation systems, vectors, plane       |
+| [48][week2] | Dot product, cross product, **R**<sup>n</sup> |
+| [49][week3] | Matrices, linear mapping, determinants        |
+| [50][week4] | Repetition, **Exam**                          |
 
 </details>
 
