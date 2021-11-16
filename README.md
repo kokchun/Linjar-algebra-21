@@ -3,7 +3,7 @@
 This is a course with focus of learning concepts in linear algebra. All lecture notes can be found in the course [Github repo](https://github.com/kokchun/Linjar-algebra-21).
 
 - [Class schedule](https://github.com/kokchun/Linjar-algebra-21/blob/main/Schedule_Linjar_Algebra_AI21.md)
-- [Resources]()
+- [Resources](https://github.com/kokchun/Linjar-algebra-21/tree/main/Resources)
 
 ## Schedule
 
@@ -11,19 +11,20 @@ This is a course with focus of learning concepts in linear algebra. All lecture 
   
 <summary id="schedule">Click to see/hide schedule</summary>
 
-|    Week     | Content   |
-| :---------: | --------- |
-| [47][week1] |           |
-| [48][week2] |           |
-| [49][week3] |           |
-| [50][week4] | **Tenta** |
+|    Week     | Content                                 |
+| :---------: | --------------------------------------- |
+| [47][week1] | Linear equation systems, vectors, plane |
+| [48][week2] |                                         |
+| [49][week3] |                                         |
+| [50][week4] | **Tenta**                               |
 
 </details>
 
-[week1]: 
-[week2]: 
-[week3]: 
-[week4]: 
+[week1]: https://github.com/kokchun/Linjar-algebra-21/blob/main/Resources/week1.md
+[week2]: https://github.com/kokchun/Linjar-algebra-21/blob/main/Resources/week2.md
+[week3]: https://github.com/kokchun/Linjar-algebra-21/blob/main/Resources/week3.md
+[week4]: https://github.com/kokchun/Linjar-algebra-21/blob/main/Resources/week4.md
 
 ## Literature
-This course is based on the course litterature "Linjär algebra" written by Gunnar Sparr. There is a [theory book](https://www.adlibris.com/se/bok/linjar-algebra-9789144197524) and an [exercise book](https://www.adlibris.com/se/bok/ovningar-i-linjar-algebra-9789144116075). 
+
+This course is based on the course litterature "Linjär algebra" written by Gunnar Sparr. There is a [theory book](https://www.adlibris.com/se/bok/linjar-algebra-9789144197524) and an [exercise book](https://www.adlibris.com/se/bok/ovningar-i-linjar-algebra-9789144116075).
