@@ -25,7 +25,8 @@ Linjer o plan
 
 ## Lecture notes :book:
 
-COMING SOON
+- [Lecture 1 - Linear equation systems](https://github.com/kokchun/Linjar-algebra-21/tree/main/Lectures/Lec1-linear-equation-systems)
+<!-- - [Lecture 2 - Vectors]() -->
 
 ## Exercises :running:
 
