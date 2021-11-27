@@ -11,12 +11,12 @@ This is a course with focus of learning concepts in linear algebra. All lecture 
   
 <summary id="schedule">Click to see/hide schedule</summary>
 
-|    Week     | Content                                 |
-| :---------: | --------------------------------------- |
-| [47][week1] | Linear equation systems, vectors, plane |
-| [48][week2] | Plane, Dot product, **R**<sup>n</sup>   |
-| [49][week3] | Matrices, linear mapping, determinants  |
-| [50][week4] | Repetition, **Exam**                    |
+|    Week     | Content                                |
+| :---------: | -------------------------------------- |
+| [47][week1] | Linear equation systems, vectors       |
+| [48][week2] | Plane, Dot product, **R**<sup>n</sup>  |
+| [49][week3] | Matrices, linear mapping, determinants |
+| [50][week4] | Repetition, **Exam**                   |
 
 </details>
 

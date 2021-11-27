@@ -14,5 +14,6 @@ COMING SOON
 
 These are a few recommended exercises, feel free to do more for extra training.
 
-| Section | Exercise |
-| ------- | -------- |
+| Section          | Exercise                                  |
+| ---------------- | ----------------------------------------- |
+| 3. Linjer o plan | 3.1-3.6, 3.9, 3.11, 3.14, 3.16, 3.20-3.22 |
