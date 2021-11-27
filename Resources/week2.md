@@ -6,6 +6,11 @@
 
 COMING SOON
 
+Linjer o plan
+
+- [Skärning mellan linje och plan](https://www.youtube.com/watch?v=mgBxXGzlYKo)
+- [Skärning linje o plan lösning](https://www.youtube.com/watch?v=mgBxXGzlYKo)
+
 ## Lecture notes :book:
 
 COMING SOON

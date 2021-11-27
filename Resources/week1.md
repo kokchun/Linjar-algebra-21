@@ -18,11 +18,6 @@ Vektorer
 - [Parallelitet, linjärkombination](https://www.youtube.com/watch?v=ivfzv8Q6xus)
 - [Längd av vektor, norm](https://www.youtube.com/watch?v=dMsXv4ZHo48)
 
-Linjer o plan
-
-- [Skärning mellan linje och plan](https://www.youtube.com/watch?v=mgBxXGzlYKo)
-- [Skärning linje o plan lösning](https://www.youtube.com/watch?v=mgBxXGzlYKo)
-
 ## Lecture notes :book:
 
 - [Lecture 1 - Linear equation systems](https://github.com/kokchun/Linjar-algebra-21/tree/main/Lectures/Lec1-linear-equation-systems)
