@@ -22,7 +22,7 @@ Vektorer
 
 - [Lecture 1 - Linear equation systems](https://github.com/kokchun/Linjar-algebra-21/tree/main/Lectures/Lec1-linear-equation-systems)
 - [Lecture 2 - Vectors](https://github.com/kokchun/Linjar-algebra-21/tree/main/Lectures/Lec2-vectors)
-- [Lecture 3 - Vectors repetition](https://github.com/kokchun/Linjar-algebra-21/tree/main/Lectures/Lec2.1-vectors)
+- [Lecture 2.1 - Vectors repetition](https://github.com/kokchun/Linjar-algebra-21/tree/main/Lectures/Lec2.1-vectors)
 
 ## Exercises :running:
 
