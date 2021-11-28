@@ -32,6 +32,7 @@ COMING SOON
 
 - Linjer och plan
 - Skalärprodukt
+- Rummet **R**<sup>n
 
 ## Exercises :running:
 
