@@ -4,8 +4,6 @@
 
 ## Video lectures :video_camera:
 
-COMING SOON
-
 Linjer o plan
 
 - [Skärning mellan linje och plan](https://www.youtube.com/watch?v=mgBxXGzlYKo)
