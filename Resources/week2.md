@@ -26,10 +26,8 @@ Rummet **R**<sup>n
 
 ## Lecture notes :book:
 
-COMING SOON
-
-- Linjer och plan
-- Skalärprodukt
+- [Linjer och plan](https://github.com/kokchun/Linjar-algebra-21/tree/main/Lectures/Lec3-lines-plane)
+- [Skalärprodukt](https://github.com/kokchun/Linjar-algebra-21/tree/main/Lectures/Lec4-dot-product)
 - Rummet **R**<sup>n
 
 ## Exercises :running:
