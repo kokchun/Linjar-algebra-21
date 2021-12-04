@@ -1,4 +1,4 @@
-# Week 47 - Resources
+# Week 48 - Resources
 
 [Back to main page :house:](https://github.com/kokchun/Linjar-algebra-21)
 
